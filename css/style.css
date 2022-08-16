@@ -19,3 +19,7 @@ img {
 .valid-form {
  background-color: transparent;
 }
+
+.footer {
+    background-color: rgb(224, 224, 224);
+}
